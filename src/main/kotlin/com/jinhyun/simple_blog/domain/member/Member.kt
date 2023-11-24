@@ -12,6 +12,7 @@ class Member(
     @Column(name = "email")
     var email:String,
 
+
     @Column(name = "email")
     var password:String
 
